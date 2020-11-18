@@ -6,7 +6,7 @@ Dick J. Brus and Jaap J. de Gruijter
 
 ### Description
 
-This ```R``` script can be used for ex ante evaluation of space-time sampling designs for trend monitoring. An a priori geostatistical model describing the variation of the variable of interest in space and time is required. The parameters of interest are the two regression coefficients (intercept and slope) of a time-series model of the spatial means with added linear trend. The output is the predicted variance of the estimated linear trend (slope coefficient), and the predicted determinant of the variance-covariance matrix of the two coefficients. The method is described in the paper D. Brus and J.J. de Gruijter (2013). Effects of spatial pattern persistence on the performance of sampling designs for regional trend monitoring analyzed by simulation
+This ```R``` script can be used for ex ante evaluation of space-time sampling designs for trend monitoring. An a priori geostatistical model describing the variation of the variable of interest in space and time is required. The parameters of interest are the two regression coefficients (intercept and slope) of a time-series model of the spatial means with added linear trend. The output is the predicted variance of the estimated linear trend (slope coefficient), and the predicted determinant of the variance-covariance matrix of the two coefficients. The method is described in the paper D.J. Brus and J.J. de Gruijter (2013). Effects of spatial pattern persistence on the performance of sampling designs for regional trend monitoring analyzed by simulation
 of space–time fields. Computers and Geosciences 61, 75-83. (http://dx.doi.org/10.1016/j.cageo.2013.09.001)
 
 ### Dependencies
